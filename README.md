@@ -6,4 +6,5 @@ Commit desde GitHub
 
 Otra actualización
 
-Cambios desde la rama local, developer 01
+Cambios  desde developer
+
